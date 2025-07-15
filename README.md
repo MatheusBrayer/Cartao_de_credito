@@ -25,7 +25,7 @@ src/
 ├── CartaoDeCredito.java
 └── Compras.java
 ```
-````
+
 
 - **Principal.java** → Classe de entrada do sistema (possui método `main`).
 - **MenuPrincipal.java** → Interface textual que exibe o menu e recebe comandos do usuário.
@@ -66,15 +66,15 @@ src/
 
 Ao iniciar o programa, será exibido o seguinte menu:
 
-````
 
+```
 MENU PRINCIPAL
 1 - Realizar nova compra
 2 - Consultar saldo
 3 - Consultar lista de compras
 4 - Sair
-
 ```
+
 
 O usuário poderá cadastrar compras, consultar o saldo restante ou visualizar todas as compras feitas. Compras que excedam o limite disponível não serão aprovadas.
 
@@ -84,8 +84,8 @@ O usuário poderá cadastrar compras, consultar o saldo restante ou visualizar t
 
 Projeto disponibilizado para fins educativos e de aprendizado. Livre para uso pessoal e contribuições.
 
-```
 
----
+
+
 
 
