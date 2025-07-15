@@ -5,8 +5,5 @@ public class Principal {
         CartaoDeCredito novoCartao = new CartaoDeCredito(1000);
         MenuPrincipal menuPrincipal = new MenuPrincipal(novoCartao);
         menuPrincipal.exibirMenu();
-
-
-
     }
 }
