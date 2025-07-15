@@ -1,6 +1,5 @@
 
 
-```markdown
 # Sistema de Cartão de Crédito
 
 Projeto em Java que simula o funcionamento básico de um cartão de crédito, permitindo lançamentos de compras, consulta de saldo e listagem das compras realizadas.
@@ -20,13 +19,12 @@ Projeto em Java que simula o funcionamento básico de um cartão de crédito, pe
 ## 🏗️ Estrutura do Projeto
 
 ```
-
 src/
 ├── Principal.java
 ├── MenuPrincipal.java
 ├── CartaoDeCredito.java
 └── Compras.java
-
+```
 ````
 
 - **Principal.java** → Classe de entrada do sistema (possui método `main`).
