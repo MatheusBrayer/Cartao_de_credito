@@ -19,7 +19,7 @@ Projeto em Java que simula o funcionamento básico de um cartão de crédito, pe
 
 ## 🏗️ Estrutura do Projeto
 
-
+---
 
 src/
 ├── Principal.java
@@ -34,7 +34,7 @@ src/
 - **CartaoDeCredito.java** → Representa o cartão, armazena limite, saldo e lista de compras.
 - **Compras.java** → Entidade que representa cada compra (descrição e valor).
 
-
+---
 
 ## 🚀 Como Executar
 
